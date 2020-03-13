@@ -1,0 +1,110 @@
+Response example #2:
+
+object(yandex_images_api)#2 (8) {
+  ["found"]=>
+  bool(true)
+  ["orig_size"]=>
+  string(10) "2048×1152"
+  ["big_sizes"]=>
+  array(3) {
+    ["x"]=>
+    array(1) {
+      [0]=>
+      string(4) "1920"
+    }
+    ["y"]=>
+    array(6) {
+      [0]=>
+      string(4) "1200"
+    }
+    ["url"]=>
+    array(6) {
+      [0]=>
+      string(92) "https://images.wallpaperscraft.ru/image/kot_pushistyy_listya_osen_krysha_66630_1920x1200.jpg"
+    }
+  }
+  ["medium_sizes"]=>
+  array(3) {
+    ["x"]=>
+    array(1) {
+      [0]=>
+      string(4) "1280"
+    }
+    ["y"]=>
+    array(6) {
+      [0]=>
+      string(3) "720"
+    }
+    ["url"]=>
+    array(6) {
+      [0]=>
+      string(52) "https://i.ytimg.com/vi/TYuHiD-s6LY/maxresdefault.jpg"
+    }
+  }
+  ["small_sizes"]=>
+  array(3) {
+    ["x"]=>
+    array(1) {
+      [0]=>
+      string(3) "537"
+    }
+    ["y"]=>
+    array(6) {
+      [0]=>
+      string(3) "240"
+    }
+    ["url"]=>
+    array(6) {
+      [0]=>
+      string(75) "https://sun9-63.userapi.com/c844720/v844720782/155454/eCgRV5ljr0c.jpg?ava=1"
+    }
+  }
+  ["tags"]=>
+  array(1) {
+    [0]=>
+    string(38) "рыжая пушистая кошка"
+  }
+  ["similar_thumbs_url"]=>
+  array(1) {
+    [0]=>
+    string(100) "https://www.selfgrowth.info/photos/free-cats-photos-HD/best-cats-pictures-without-background5538.jpg"
+  }
+  ["other"]=>
+  array(7) {
+    ["img_url"]=>
+    array(1) {
+      [0]=>
+      string(115) "https://social-network.biz/upload/photos/2018/08/pntpTUQftcZFDdTw1VfU_19_9ea740abdf113d77c21e339c076e05ce_image.jpg"
+    }
+    ["thumb_url"]=>
+    array(1) {
+      [0]=>
+      string(66) "//im0-tub-ru.yandex.net/i?id=24068ea23733c3eca7f7edce73707c2f&n=16"
+    }
+    ["sizes"]=>
+    array(1) {
+      [0]=>
+      string(15) "1920&times;1080"
+    }
+    ["site_redirurl"]=>
+    array(1) {
+      [0]=>
+      string(487) "http://yandex.ru/clck/jsredir?from=yandex.ru%3Bimages%2Fsearch%3Bimages%3B%3B&text=&etext=8844.yaB4IPXfZcfSpgGFWqrsSxN7v-xQz1vfRQU9OIo3br8.83b2896dad3a8a094efa83837367587ac4023d26&uuid=&state=tid_Wvm4RM35w_KF6_gYfMtmgS4f5d81OW-g6ZRMBJsI3GF_Hm08bQ,,&data=UlNrNmk5WktYejY4cHFySjRXSWhXRnJUbExDbEh4dDJvZTRHclFsemh0NEdsdlI1UWJSemhpaWt2VnZHb3BYd3d5Y2J1d2tYRjBmZ1dHNU9GZlI1NG5mVzNOb1BZT292ZEYtdWREdTZZRjE0VmhxNjhNUGxTTDhveGNjc0t2X0g,&sign=131250364dbe9bcd744ef0dc842143b4&keyno=0&b64e=2&l10n=ru"
+    }
+    ["title"]=>
+    array(1) {
+      [0]=>
+      string(52) "Social network SN Free Social network Social network"
+    }
+    ["site_name"]=>
+    array(1) {
+      [0]=>
+      string(18) "social-network.biz"
+    }
+    ["desc"]=>
+    array(1) {
+      [0]=>
+      string(45) "We are more than an ordinary social network. "
+    }
+  }
+}

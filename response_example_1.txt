@@ -1,0 +1,108 @@
+Response example #1:
+object(yandex_images_api)#1 (1) {
+  ["text_res"]=>
+  array(1) {
+    [0]=>
+    object(stdClass)#18 (15) {
+      ["reqid"]=>
+      string(55) "1584087751224651-111330918493405048792785-man2-6759-IMG"
+      ["freshness"]=>
+      string(6) "normal"
+      ["preview"]=>
+      array(1) {
+        [0]=>
+        object(stdClass)#19 (6) {
+          ["url"]=>
+          string(74) "https://im0-tub-ru.yandex.net/i?id=29672623dc04f9af479811e17469d0f8-l&n=13"
+          ["fileSizeInBytes"]=>
+          int(199968)
+          ["w"]=>
+          int(1200)
+          ["h"]=>
+          int(900)
+          ["origin"]=>
+          object(stdClass)#20 (3) {
+            ["w"]=>
+            int(1200)
+            ["h"]=>
+            int(900)
+            ["url"]=>
+            string(100) "https://avatars.mds.yandex.net/get-pdb/1904747/0c96f5da-8735-4350-8529-e64289e6898b/s1200?webp=false"
+          }
+          ["isMixedImage"]=>
+          bool(true)
+        }
+      }
+      ["dups"]=>
+      array(1) {
+        [0]=>
+        object(stdClass)#23 (6) {
+          ["url"]=>
+          string(74) "https://im0-tub-ru.yandex.net/i?id=8253edbfe164b01dac4882911b3db04c-l&n=13"
+          ["fileSizeInBytes"]=>
+          int(2841839)
+          ["w"]=>
+          int(3000)
+          ["h"]=>
+          int(1875)
+          ["origin"]=>
+          object(stdClass)#24 (3) {
+            ["w"]=>
+            int(3840)
+            ["h"]=>
+            int(2400)
+            ["url"]=>
+            string(88) "https://image.wallperz.com/wp-content/uploads/2017/01/26/wallperz.com-20170126143019.jpg"
+          }
+          ["isMixedImage"]=>
+          bool(true)
+        }
+      }
+      ["thumb"]=>
+      object(stdClass)#32 (2) {
+        ["url"]=>
+        string(66) "//im0-tub-ru.yandex.net/i?id=674357a2521b197de1db57056e36a7b8&n=13"
+        ["size"]=>
+        object(stdClass)#33 (2) {
+          ["width"]=>
+          int(427)
+          ["height"]=>
+          int(320)
+        }
+      }
+      ["snippet"]=>
+      object(stdClass)#34 (6) {
+        ["title"]=>
+        string(60) "Download wallpaper 1600x1200 cat, fluffy, leaves, autumn, ro"
+        ["hasTitle"]=>
+        bool(true)
+        ["text"]=>
+        string(64) "Из коллекции &quot;Солнечные коты&quot; "
+        ["url"]=>
+        string(60) "https://yandex.ru/collections/card/5db91af0154906d9b9e10e28/"
+        ["domain"]=>
+        string(9) "Yandex.ru"
+        ["redirUrl"]=>
+        string(659) "http://yandex.ru/clck/jsredir?from=yandex.ru%3Bimages%2Fsearch%3Bimages%3B%3B&text=&etext=8844.FXr_4myUfeYZ1I4LNPhDAD1yaH7oDGRApTusLgNj2CVlPmzQfglLC3zSljuxQ638mTAwVuKWFyk_j5NU2tP7LxI7zTxfqyVXb2lUMLqCK5vWucyhiBPv0b14V-hW4C76QzgcqE7e8rnGZMIkixxFkoJObAw8vmMAytfeKvIz6JQ.e20d7cb382f76387b37b151ebe11cf7f27088784&uuid=&state=tid_Wvm4RM28ca_MiO4Ne9osTPtpHS9wicjEF5X7fRziVPIHCd9FyQ,,&data=UlNrNmk5WktYejY4cHFySjRXSWhXTWRwNjROVUR3SGZ4d0ZxNlBTblBJdUdvRnZUTTVoTXdhMUZlTFpfOXBMQVV0S1EtZTNjYjZpWm5oRTBidmdjNGM0THBFRGxuVXZPSVI2VzRzUVpLUENDLUU4d3Fhd1lGVzNEVFFhVUJtZGtkTkZEVzlabHpCZzMxcWZTNHRuS2JjR0RWaTNHcktFbw,,&sign=7cef05f78c95a85f27fa16920d5a416c&keyno=0&b64e=2&l10n=ru"
+      }
+      ["detail_url"]=>
+      string(253) "/images/search?pos=0&p=0&img_url=https%3A%2F%2Fcs8.pikabu.ru%2Fpost_img%2F2017%2F12%2F27%2F9%2Fog_og_1514385999269590677.jpg&text=https%3A%2F%2Fwww.selfgrowth.info%2Fphotos%2Ffree-cats-photos-HD%2Fbest-cats-pictures-without-background5538.jpg&rpt=simage"
+      ["img_href"]=>
+      string(100) "https://avatars.mds.yandex.net/get-pdb/1904747/0c96f5da-8735-4350-8529-e64289e6898b/s1200?webp=false"
+      ["useProxy"]=>
+      bool(false)
+      ["pos"]=>
+      int(0)
+      ["id"]=>
+      string(32) "95ff5cc21551ddcb518bff862036c125"
+      ["rimId"]=>
+      string(32) "6f38fa8f678e32005cc307832dd8885c"
+      ["docid"]=>
+      string(17) "ZA3215695EB9C857B"
+      ["greenUrlCounterPath"]=>
+      string(20) "8.228.471.241.13.141"
+      ["counterPath"]=>
+      string(12) "thumb/normal"
+    }
+  }
+}
